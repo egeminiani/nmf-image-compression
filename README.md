@@ -16,3 +16,5 @@ The `Workspace` folder collects the workspace images with the estimated NMF mode
 ## Other
 
 Suggestions and feedback are welcome!
+
+Link to notebook on Kaggle: [https://www.kaggle.com/elenageminiani/nmf-and-image-compression](https://www.kaggle.com/elenageminiani/nmf-and-image-compression).
