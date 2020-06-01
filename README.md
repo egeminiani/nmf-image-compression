@@ -1,11 +1,11 @@
-# Nonnegative Matrix Factorization and Image Compression
+# Nonnegative Matrix Factorization and Image Compression 
 
-This repository contains a gentle introduction to nonnegative matrix factorization (NMF). <br/>
-It gives an overview of the method's technical details, the most common numerical algorithms for solving the factorization problem, and its recent extensions. 
+<img src="https://raw.githubusercontent.com/egeminiani/nmf-image-compression/master/Figures/GIF/animation.gif" align="right" width = "270"/>
+
+<br/><br/>
+This repository contains a gentle introduction to nonnegative matrix factorization (NMF). It gives an overview of the method's technical details, the most common numerical algorithms for solving the factorization problem, and its recent extensions.
 
 We consider an application of NMF to the field of image processing. More specifically, the painting [*Madonna of the Goldfinch*](https://en.wikipedia.org/wiki/Madonna_del_cardellino) (Madonna del Cardellino) by the Italian artist Raphael is optimally compressed through a low-rank approximation of the pixel intensities matrix.
-
-<img src="https://raw.githubusercontent.com/egeminiani/nmf-image-compression/master/Figures/GIF/animation.gif" width = "350">
 
 ## Usage
 
